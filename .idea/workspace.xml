@@ -1,17 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="206c08bd-7dc9-4587-8f0f-b8a940c6dea4" name="Default Changelist" comment="" />
+    <list default="true" id="206c08bd-7dc9-4587-8f0f-b8a940c6dea4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tests/_output/CheckingInsertingCest.addNew.fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/acceptance/CheckingInsertingCest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/acceptance/CheckingInsertingStringWithEmptyValuesCest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/acceptance/CheckingOneStringCest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/acceptance/CheckingSixStringCest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/acceptance/CheckingUpdatingCest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/_output/FirstCest.allColumns.fail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/_output/FirstCest.allColumns.fail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/_output/FourthCest.tryToTest.fail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/_output/FourthCest.tryToTest.fail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/_output/OwnCest.tryToTest.fail.html" beforeDir="false" afterPath="$PROJECT_DIR$/tests/_output/CheckingInsertingCest.addNew.fail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/_output/OwnCest.tryToTest.fail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/_output/ThirdCest.addNew.fail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/_output/ThirdCest.addNew.fail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/acceptance/1FirstCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/acceptance/2SecondCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/acceptance/3ThirdCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/acceptance/4FourthCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/acceptance/FifthCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/acceptance/OwnCest.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -108,7 +133,10 @@
       <option name="presentableId" value="Default" />
       <updated>1584113445987</updated>
       <workItem from="1584113447398" duration="4152000" />
-      <workItem from="1584156726518" duration="15593000" />
+      <workItem from="1584156726518" duration="15846000" />
+      <workItem from="1584245597893" duration="1865000" />
+      <workItem from="1584283751347" duration="5300000" />
+      <workItem from="1584289897866" duration="1990000" />
     </task>
     <servers />
   </component>
@@ -116,10 +144,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1507" y="27" width="1210" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584169373911">
+    <state x="1507" y="27" width="1210" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584289068718">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="1507" y="27" width="1210" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1440.0.1920.1080/0.27.1440.873@1440.0.1920.1080" timestamp="1584169373911" />
+    <state x="1507" y="27" width="1210" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1440.0.1920.1080/0.27.1440.873@1440.0.1920.1080" timestamp="1584289068718" />
     <state x="1922" y="187" key="SettingsEditor" timestamp="1584172243972">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
